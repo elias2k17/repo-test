@@ -1,3 +1,1 @@
-print hello world
-print hello everybody
-print happy holidays
+print happy new year
